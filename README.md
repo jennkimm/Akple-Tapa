@@ -12,7 +12,7 @@ koNLPy 와 정규표현식을 활용해 크롤링한 글들을 정제했고,
 matploblib, pandas, wordcloud 를 활용해 비속어와 그 빈도수를 그래프로 시각화 하였습니다.
 <img src="욕막대.PNG">
 <img src="욕표.PNG">
-<img src="wordcloud_without_axisoff.png">
+<img src="wordcloud_without_axisoff.png" width="250" height="250">
 
 ### 발표자료:
 <a href="악플타파.pdf">발표자료</a>
